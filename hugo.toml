@@ -1,4 +1,44 @@
 baseURL = 'https://example.org/'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = 'Matthew Anderson'
 theme = 'hugo-resume'
+
+[params]
+address = "Columbia, MO"
+email = "matt@manderscience.com"
+favicon = "/favicon.ico"
+firstName = "Matthew"
+lastName = "Anderson"
+#phone = "1-555-555-1234"
+profileImage = "img/TechChat.png"
+#showQr = true
+showContact = true
+#showBoards  = true
+#showCertifications = true
+showSocializations = true
+
+sections = ["skills","publications","creations","contributions","experience","education","blog"]
+
+
+[params.google]
+
+[params.google.analytics]
+trackerID = "XX-123446-01"
+
+[[params.handles]]
+    name = "LinkedIn"
+    link = "https://www.linkedin.com/in/manderscience/"
+
+[[params.handles]]
+    name = "GitHub"
+    link = "https://github.com/maxb2/"
+
+[[params.handles]]
+    name = "GitLab"
+    link = "https://github.com/somnus50/"
+
+[outputs]
+home = ["HTML", "JSON"]
+
+[taxonomies]
+tag = "tags"

@@ -1,0 +1,32 @@
+[
+    {
+        "role":"Machine Learning Engineer",
+        "company":"Veterans United Home Loans",
+        "summary":"Modeled event sequences using survival analysis and neural networks. Used large language models to classify communication data. Built and administered a development environment for GPU accelerated machine learning.",
+        "range":"April 2023 - Present"
+    },
+    {
+        "role":"MLOps Engineer",
+        "company":"Veterans United Home Loans",
+        "summary":"Built MLOps infrastructure for our data science team. Led design discussions and decisions. Built automation for deploying machine learning models as microservices in kubernetes.",
+        "range":"November 2022 - April 2023"
+    },
+    {
+        "role":"Quantitative Software Engineer",
+        "company":"Veterans United Home Loans",
+        "summary":"Developed and maintained data science tools. Maintained data science DevOps infrastructure. Built a documentation ecosystem for data science projects. Educated data scientists on programming best practices.",
+        "range":"February 2013 - March 2014"
+    },
+    {
+        "role":"Graduate Research Assistant",
+        "company":"University of Missouri - Columbia",
+        "summary":"Researched magnetic phenomena in solids using density functional theory. Developed parallelized code for solving iterative equations. Performed electronic structure calculations with industry software (ABINIT, Gaussian). Administered high performance Linux workstations.",
+        "range":"August 2015 - December 2021"
+    },
+    {
+        "role":"Graduate Teaching Assistant",
+        "company":"University of Missouri - Columbia",
+        "summary":"Assisted in teaching undergraduate physics courses. Developed instructional materials and assessments. Provided one-on-one tutoring and support to students.",
+        "range":"September 2014 - August 2021"
+    }
+]

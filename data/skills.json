@@ -1,0 +1,27 @@
+[
+  {
+      "grouping":"Architecture",
+      "skills":["Kubernetes","Microservices","RESTful APIs"]
+  },{
+      "grouping":"Languages, Operating Systems & Tools",
+      "skills":[ "Python","Rust","Mathematica","git","linux","bash"]
+  },
+  {
+      "grouping":"Platform Development & Administration",
+      "skills":["Github","GitLab","MLFlow"]
+  },
+  {
+      "grouping":"Data Management",
+      "skills":[
+        "Snowflake",
+        "S3"
+      ]
+  },
+  {
+    "grouping":"Containers & Cloud",
+      "skills":[
+          {"name":"Docker","link":"https://docker.com"},
+          {"name":"Linux","link":"https://bosh.io"}
+      ]
+  }
+]
